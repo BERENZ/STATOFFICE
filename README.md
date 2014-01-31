@@ -1,0 +1,4 @@
+STATOFFICE
+==========
+
+Function from work
